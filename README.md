@@ -2,7 +2,7 @@
 <div>
   <img height="200em" src="https://static-cdn.jtvnw.net/jtv_user_pictures/7eb15ace-05cf-450c-8047-83569dbf85dd-profile_image-300x300.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=itsmeangelini&theme=dark&hide_border=false&count_private=true&include_all_commits=true&show_icons=true" alt="Estatísticas do GitHub" />
+  <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=itsmeangelini&theme=dark&hide_border=false&count_private=true&include_all_commits=true&show_icons=true" alt="Estatísticas do GitHub" /> -->
 </div>
 
 <br>
