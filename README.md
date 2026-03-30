@@ -2,6 +2,7 @@
 <div>
   <img height="200em" src="https://static-cdn.jtvnw.net/jtv_user_pictures/7eb15ace-05cf-450c-8047-83569dbf85dd-profile_image-300x300.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsmeangelini&theme=dark&border_radius=2&card_height=200&hide_border=true" alt="GitHub Streak" /></a>
   <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=itsmeangelini&theme=dark&hide_border=false&count_private=true&include_all_commits=true&show_icons=true" alt="Estatísticas do GitHub" /> -->
 </div>
 
