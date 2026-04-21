@@ -1,4 +1,4 @@
-# Hello! I'm Pedro Angelini ⚛️
+# Hello! I'm Pedro Angelini 
 <div>
   <img height="200em" src="https://static-cdn.jtvnw.net/jtv_user_pictures/7eb15ace-05cf-450c-8047-83569dbf85dd-profile_image-300x300.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;
